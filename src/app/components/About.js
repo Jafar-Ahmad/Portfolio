@@ -9,10 +9,10 @@ const About = () => {
           <h1 className='text-teal-950 font-extrabold text-2xl font-sans text-left pb-3 '>About  Me</h1>
         
       <p className="text-justify text-lg sm:text-xl font-thin mb-6 lg:pr-12 text-teal-950">
-            I'm Jafar Ahmad a FrontEnd Developer, Data Analyst and Graphic Designer based in Damaturu, 
+            I am Jafar Ahmad a FrontEnd Developer, Data Analyst and Graphic Designer based in Damaturu, 
             Yobe State Nigeria. With 4+ years working experience. As a multifeceted professional, I combine FrontEnddevelopment,
             Data Analysis and Grapgic Design to deliver innovative solutions, driving engagement, insights, and business growth
-            through responsuve interfaces, data-driven insights, and visually stunning designs.
+            through responsuve interfaces, da ta-driven insights, and visually stunning designs.
           </p>
           </div>
           <div className="col-span-5 mt-8">

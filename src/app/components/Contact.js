@@ -10,9 +10,9 @@ const Contact = () => {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-10">
       <div className="col-span-4 place-self-center items-center lg:mr-3">
-        <h1 className="text-teal-950 text-center pb-2 text-3xl font-semibold font-sans">Let's Talk</h1>
+        <h1 className="text-teal-950 text-center pb-2 text-3xl font-semibold font-sans">Lets Talk</h1>
         <p className="text-center font-serif text-lg pb-2">
-          Have a question or want to hire me? I'm here to help. Feel free to
+          Have a question or want to hire me? I am here to help. Feel free to
           reach out via social media handles or directly via email. Thank you!
         </p>
         <div className="flex justify-around mt-4 ">

@@ -23,7 +23,7 @@ const HeroSec = () => {
           <span className="text-red-500">
             <Typewriter
             words={[
-                "FullStack Developer",
+                "FrontEnd Developer",
                 "Data Analyst",
                 "Graphic Desihgner",
                 "Public Speaker",
